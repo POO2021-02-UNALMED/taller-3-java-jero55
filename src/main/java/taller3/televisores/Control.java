@@ -40,9 +40,9 @@ public class Control {
 		return tv;
 	}
 	
-	public void setTv(TV TV) {
-		this.enlazar(TV);
-	}
+//	public void setTv(TV TV) {
+//		this.enlazar(TV);
+//	}
 
 }
 
